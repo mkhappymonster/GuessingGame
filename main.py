@@ -13,6 +13,6 @@ while guess != secret_word and not no_ofGuesses :
        no_ofGuesses = True
 
 if no_ofGuesses:
-    print("Grind your ass as dumb  potato")
+    print("You lose")
 else :
-    print("asshole monster Win")
+    print("monster Win")
